@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.showAllAction {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+
+.edit {
+  background-color: greenyellow;
+  padding: 10px;
+  margin: 4px;
+  border: 2px;
+  border-radius: 6px;
+}
+
+.update {
+  background-color: green;
+  margin: 4px;
+  padding: 10px;
+  border: 2px;
+  border-radius: 6px;
+}
+
+.delete {
+  background-color: red;
+  margin: 4px;
+  padding: 10px;
+  border: 2px;
+  border-radius: 10px;
+}
